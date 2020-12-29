@@ -25,7 +25,7 @@ def third_challenge
         :age => "51"
         },
       :heroine => {
-       :name => {},
+       :name => "Juliet",
        :age =>
         },
       :heroine_friends => []
